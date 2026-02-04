@@ -10,7 +10,8 @@ using namespace std;
 
 int main (int argc, char *argv[])
 {
-	cout << "Hola mundo!" << endl;
+	cout << "Lozano Gutierrez Jacob Asael" << endl;
+	cout <<"Za220112555" << endl;
 	return 0;
 }
 
