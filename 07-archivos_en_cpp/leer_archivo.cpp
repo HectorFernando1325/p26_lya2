@@ -22,7 +22,7 @@ int main (int argc, char *argv[])
 
 	string linea;
 
-	while(getline(archivo,linea) {
+	while(getline(archivo,linea)) {
 		cout << linea << endl;
 	}
 	archivo.close();
